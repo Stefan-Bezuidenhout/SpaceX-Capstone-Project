@@ -10,6 +10,12 @@ The objective of this project is to analyse historical Falcon 9 launch data, ide
 
 This project was completed as part of the **IBM Data Science Professional Certificate – Applied Data Science Capstone**.
 
+##Repository Update
+
+This repository contains an updated version of my original capstone submission.
+
+The notebooks and code have been reviewed and revised to address implementation issues encountered during the initial version. The updated upload aims to provide a more complete, functional and consistent representation of the project workflow.
+
 ## Project Objectives
 
 - Collect and explore historical SpaceX launch data.
