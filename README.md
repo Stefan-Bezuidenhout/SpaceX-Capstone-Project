@@ -10,7 +10,7 @@ The objective of this project is to analyse historical Falcon 9 launch data, ide
 
 This project was completed as part of the **IBM Data Science Professional Certificate – Applied Data Science Capstone**.
 
-##Repository Update
+## Repository Update
 
 This repository contains an updated version of my original capstone submission.
 
